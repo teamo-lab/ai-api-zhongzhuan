@@ -7,6 +7,22 @@ TeamoRouter 官方维护的中文接入示例：用一个 API Key，通过 OpenA
 - Claude API 中转：<https://teamorouter.com/zh/claude-api-zhongzhuan>
 - 接入文档：<https://teamorouter.com/zh/docs/api-integration>
 
+## 各厂商 API 中转
+
+| 仓库 | 说明 |
+|---|---|
+| [teamo-lab/claude-api-zhongzhuan](https://github.com/teamo-lab/claude-api-zhongzhuan) | Claude API 中转站｜Claude、Claude Code 接入，不用 Anthropic 账号 |
+| [teamo-lab/gpt-api-zhongzhuan](https://github.com/teamo-lab/gpt-api-zhongzhuan) | GPT API 中转站｜OpenAI / ChatGPT API 接入、Codex 配置，不用 OpenAI 账号 |
+| [teamo-lab/gemini-api-zhongzhuan](https://github.com/teamo-lab/gemini-api-zhongzhuan) | Gemini API 中转站｜Gemini、Gemini CLI、Nano Banana 接入，不用 Google 账号 |
+| [teamo-lab/deepseek-api-zhongzhuan](https://github.com/teamo-lab/deepseek-api-zhongzhuan) | DeepSeek API 中转站｜DeepSeek V4 接入、Claude Code 配置，一个 Key 调全部模型 |
+| [teamo-lab/kimi-api-zhongzhuan](https://github.com/teamo-lab/kimi-api-zhongzhuan) | Kimi API 中转站｜Kimi K3 接入、Claude Code / Codex 配置 |
+| [teamo-lab/qwen-api-zhongzhuan](https://github.com/teamo-lab/qwen-api-zhongzhuan) | Qwen API 中转站｜通义千问 Qwen API 接入、Cherry Studio 配置 |
+| [teamo-lab/glm-api-zhongzhuan](https://github.com/teamo-lab/glm-api-zhongzhuan) | GLM API 中转站｜智谱 GLM-5 接入、Claude Code / Codex 配置 |
+| [teamo-lab/grok-api-zhongzhuan](https://github.com/teamo-lab/grok-api-zhongzhuan) | Grok API 中转站｜xAI Grok API 接入、OpenAI 兼容，不用 xAI 账号 |
+| [teamo-lab/minimax-api-zhongzhuan](https://github.com/teamo-lab/minimax-api-zhongzhuan) | MiniMax API 中转站｜MiniMax M3 接入、OpenAI 兼容 |
+| [teamo-lab/codex-zhongzhuan](https://github.com/teamo-lab/codex-zhongzhuan) | Codex 中转站｜Codex CLI 配置 config.toml、GPT API 中转，不用 OpenAI 账号 |
+| [teamo-lab/claude-code-zhongzhuan](https://github.com/teamo-lab/claude-code-zhongzhuan) | Claude Code 中转站｜Claude Code 环境变量配置、Claude API 中转，不用 Anthropic 账号 |
+
 ## 接入地址
 
 | 接口 | Base URL | 适用 |
